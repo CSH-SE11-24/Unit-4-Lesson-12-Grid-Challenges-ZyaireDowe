@@ -1,0 +1,17 @@
+.em{
+  font-size: 60px;
+  padding: 10px;
+  border: none;
+}
+  
+.row {
+  background-color: #56B4E9
+}
+
+.emoji{
+  border: solid 0.5px black;
+} 
+
+body{
+  padding-top: 15px;
+}
